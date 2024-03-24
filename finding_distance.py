@@ -1,5 +1,6 @@
 #Code to find the distnace between 2 cities on the map
 #Use dot product and length formulas
+import math 
 
 def dot_product(v,w):
     total = 0
